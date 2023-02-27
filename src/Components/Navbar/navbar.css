@@ -1,0 +1,18 @@
+.Navbar {
+    display: flex;
+    align-items: center;
+    background-color: #00021f;
+    justify-content: space-around;
+   color: blanchedalmond;
+}
+
+.logo img {
+    width:  8rem;
+}
+ul{
+    display: flex;
+}
+li {
+    list-style-type: none;
+    padding-right: 5em;
+}
